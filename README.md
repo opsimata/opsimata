@@ -1,16 +1,15 @@
-<h1 align="center">Hallo ✨◝(⁰▿⁰)◜✨ I'm Pedro Schumacher 🪐🥀</h1>
+<h1 align="center">✨ Hallo◝(⁰▿⁰)◜✨ I'm Pedro Schumacher 🪐🥀</h1>
 
-<img align="right" alt="avatar" width="260" src="https://64.media.tumblr.com/31afd439960766f1b6dbd71cde5fc5ab/66b4de826ed41261-d3/s540x810/957b346ae72147be1f03fe5c26e0333306406a7f.gifv"> <br>
+<img align="right" alt="Profile card and avatar" width="300" src="https://64.media.tumblr.com/31afd439960766f1b6dbd71cde5fc5ab/66b4de826ed41261-d3/s540x810/957b346ae72147be1f03fe5c26e0333306406a7f.gifv"> <br>
 
 <h3 align="left">I'm a junior front-end dev, passionate for aesthetic designs and well-done projects!</h3>
 
-- (ง •̀_•́)ง💻 - I’m currently working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable).
+- (ง •̀_•́)ง💻 - Right now I'm working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable).
 
-- (＊・∀・)ﾉ📚 - I’m currently learning more about **React, React Native, Typescript and Sass**.
+- (ง・∀・)ﾉ📚 - I’m currently learning more about **React, React Native, Typescript and Sass**.
 
-- (｡･.･)ﾉﾞ🙋🏻‍♂️ - How to reach me? Here:
-<br> <br> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opsimata/)](https://www.linkedin.com/in/opsimata/)
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/opsimata_)](https://twitter.com/opsimata_)
+- (｡･.･)ﾉﾞ🙋🏻‍♂️ You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opsimata/)](https://www.linkedin.com/in/opsimata/)
+ [![Twitter Badge](https://64.media.tumblr.com/457f6d5587c99bc9370bc46474934bd9/99805027b7bed5d1-e4/s75x75_c1/7f8dd64723c36b1ed475e5e61216cca9d417e206.pnj)](https://twitter.com/opsimata_)
 
 <br>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opsimata" alt="opsimata" /></a> </p> -->
@@ -24,6 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opsimata&show_icons=true&locale=en" alt="opsimata" /></p> -->
 
-<br>
+<br align="left">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=360e61&color=fff&line=757bc8&point=fff&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
