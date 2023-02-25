@@ -1,7 +1,7 @@
 <h1 align="center">Hallo ✨◝(⁰▿⁰)◜✨ I'm Pedro Schumacher 🪐🥀</h1>
 <h3 align="left">I'm a junior front-end dev, passionate for aesthetic designs and well done projects</h3>
 
-<img align="right" alt="avatar" width="300" src="https://64.media.tumblr.com/8a3089e1f68504ae30725a01096fb5b8/2bbedc816f6eb856-63/s640x960/abd0dd7f264ee4643ce7d3ccd7425c36f25022e8.pnj">
+<img align="right" alt="avatar" width="350" src="https://64.media.tumblr.com/8a3089e1f68504ae30725a01096fb5b8/2bbedc816f6eb856-63/s640x960/abd0dd7f264ee4643ce7d3ccd7425c36f25022e8.pnj">
 
 
 
