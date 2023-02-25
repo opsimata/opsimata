@@ -5,7 +5,7 @@
 
 
 
-- (ง •̀_•́)ง💻 - I’m currently working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable)
+- (ง •̀_•́)ง💻 - I’m currently working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable).
 
 - (＊・∀・)ﾉ📚 - I’m currently learning more about **React, React Native, Typescript and Sass**.
 
