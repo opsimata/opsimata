@@ -8,7 +8,8 @@
 
 - (＊・∀・)ﾉ📚 - I’m currently learning more about **React, React Native, Typescript and Sass**.
 
-- (｡･.･)ﾉﾞ🙋🏻‍♂️ - How to reach me?  [Linkedin](https://www.linkedin.com/in/opsimata/).
+- (｡･.･)ﾉﾞ🙋🏻‍♂️ - How to reach me? [Linkedin](https://www.linkedin.com/in/opsimata/)!
+
 
 
 
