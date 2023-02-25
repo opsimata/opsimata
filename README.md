@@ -1,6 +1,6 @@
 <h1 align="center">Hallo ✨◝(⁰▿⁰)◜✨ I'm Pedro Schumacher 🪐🥀</h1>
 
-<img align="right" alt="avatar" width="230" src="https://64.media.tumblr.com/31afd439960766f1b6dbd71cde5fc5ab/66b4de826ed41261-d3/s540x810/957b346ae72147be1f03fe5c26e0333306406a7f.gifv">
+<img align="right" alt="avatar" width="260" src="https://64.media.tumblr.com/31afd439960766f1b6dbd71cde5fc5ab/66b4de826ed41261-d3/s540x810/957b346ae72147be1f03fe5c26e0333306406a7f.gifv">
 
 <h3 align="left">I'm a junior front-end dev, passionate for aesthetic designs and well done projects</h3>
 
@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opsimata&show_icons=true&locale=en" alt="opsimata" /></p> -->
 
-<br><br>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=360e61&color=fff&line=757bc8&point=fff&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
