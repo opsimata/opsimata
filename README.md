@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opsimata&show_icons=true&locale=en" alt="opsimata" /></p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=1b191f&color=a593a3&line=70599b&point=9c91a6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=1b191f&color=a593a3&line=70599b&point=9c91a6&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
