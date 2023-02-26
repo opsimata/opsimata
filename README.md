@@ -14,7 +14,7 @@
  
  [![linkedIn Icon](https://64.media.tumblr.com/609f307f0aa34a2c348aaf59e19f9a85/99805027b7bed5d1-d4/s75x75_c1/399d1ad8239b4bc580fe19dc65623c9c4ed6e97f.pnj)](https://www.linkedin.com/in/opsimata/) [![Twitter Icon](https://64.media.tumblr.com/457f6d5587c99bc9370bc46474934bd9/99805027b7bed5d1-e4/s75x75_c1/7f8dd64723c36b1ed475e5e61216cca9d417e206.pnj)](https://twitter.com/opsimata_)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=opsimata)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=opsimata&theme=jolly&background=351258&border=1E0328&stroke=A49EF1&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=A49EF1)](https://git.io/streak-stats)
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=360e61&color=fff&line=757bc8&point=fff&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
 <h2></h2>
