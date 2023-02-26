@@ -1,4 +1,4 @@
-[![Header](https://64.media.tumblr.com/31715804742b02a444a0e10fe2a0dfe1/110913f46d0a89cc-29/s1280x1920/70c6764824ec1b767abc3103d10f17479ea4afca.gifv)](https://www.linkedin.com/in/opsimata/)
+<img align="center" alt="Profile header" width="300" src="https://64.media.tumblr.com/4876110806c1d40e1719d103cdb41352/4e595add7d0bf229-e8/s1280x1920/a5ead991b0f80aa38797b9eaf9fd47d401853bb2.gif">
 
 <h1 align="center">✨ Hallo◝(⁰▿⁰)◜✨ I'm Pedro Schumacher 🪐🥀</h1>
 
@@ -26,5 +26,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opsimata&show_icons=true&locale=en&layout=compact" alt="opsimata" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opsimata&show_icons=true&locale=en" alt="opsimata" /></p> -->
+
+<h2>-</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=360e61&color=fff&line=757bc8&point=fff&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
