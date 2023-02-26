@@ -1,4 +1,4 @@
-<img align="center" alt="Profile header" width="300" src="https://64.media.tumblr.com/4876110806c1d40e1719d103cdb41352/4e595add7d0bf229-e8/s1280x1920/a5ead991b0f80aa38797b9eaf9fd47d401853bb2.gif">
+<img align="center" alt="Profile header" width="100%" src="https://64.media.tumblr.com/d18ffb37f3ac2f5170fefafbde9e4c15/3356a31ab718f648-59/s1280x1920/b6f939b565882ed5c4eea9bb1fe6b4ca17b99b5b.gif">
 
 <h1 align="center">✨ Hallo◝(⁰▿⁰)◜✨ I'm Pedro Schumacher 🪐🥀</h1>
 
