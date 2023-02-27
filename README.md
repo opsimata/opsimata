@@ -16,5 +16,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=opsimata&theme=blueberry&dates=9072FC&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5D49A2&ring=5D49A2&fire=A38BFF&stroke=9072FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=360e61&color=fff&line=757bc8&point=fff&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=242938&color=ffffff&line=5d49a1&point=a28afe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2></h2>
