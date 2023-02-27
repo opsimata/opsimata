@@ -12,7 +12,7 @@
 
 - (｡･.･)ﾉﾞ🙋🏻‍♂️ — **You can reach me here:**
  
- [![linkedIn Icon](https://64.media.tumblr.com/609f307f0aa34a2c348aaf59e19f9a85/99805027b7bed5d1-d4/s75x75_c1/399d1ad8239b4bc580fe19dc65623c9c4ed6e97f.pnj)](https://www.linkedin.com/in/opsimata/) [![Twitter Icon](https://64.media.tumblr.com/457f6d5587c99bc9370bc46474934bd9/99805027b7bed5d1-e4/s75x75_c1/7f8dd64723c36b1ed475e5e61216cca9d417e206.pnj)](https://twitter.com/opsimata_)
+ [![linkedIn Icon](https://64.media.tumblr.com/609f307f0aa34a2c348aaf59e19f9a85/99805027b7bed5d1-d4/s75x75_c1/399d1ad8239b4bc580fe19dc65623c9c4ed6e97f.pnj)](https://www.linkedin.com/in/opsimata/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=opsimata&theme=blueberry&dates=9072FC&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5D49A2&ring=5D49A2&fire=A38BFF&stroke=9072FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
   
