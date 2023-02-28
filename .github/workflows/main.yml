@@ -12,28 +12,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Fortune
+      - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/fortune.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_fortune: yes
-      - name: Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-      - name: Gists
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/gists.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_gists: yes
       - name: Indepth analysis follow-up
         uses: lowlighter/metrics@latest
         with:
