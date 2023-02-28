@@ -1,6 +1,6 @@
 <img align="center" alt="Profile header" width="100%" src="https://64.media.tumblr.com/d18ffb37f3ac2f5170fefafbde9e4c15/3356a31ab718f648-59/s1280x1920/b6f939b565882ed5c4eea9bb1fe6b4ca17b99b5b.gif">
 
-<img align="right" alt="Profile card and avatar" width="305" src="https://64.media.tumblr.com/5d7d3483186bc21bc41f11d63d81e1c2/6680cb200c5c667c-0f/s400x600/d8d303df9d3cd9061d7b6a7c5f7feab46e1fec52.gif">
+<img align="right" alt="Profile card and avatar" width="310" src="https://64.media.tumblr.com/5d7d3483186bc21bc41f11d63d81e1c2/6680cb200c5c667c-0f/s400x600/d8d303df9d3cd9061d7b6a7c5f7feab46e1fec52.gif">
 
 <h2 align="center">✨&nbsp;Hallo◝(⁰▿⁰)◜🥀✨&nbsp;&nbsp;&nbsp;🪐I'm Pedro Schumacher🪐</h2>
 
