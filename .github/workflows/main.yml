@@ -5,7 +5,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -23,7 +23,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -31,14 +31,14 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/gists.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_gists: yes
       - name: Indepth analysis follow-up
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/followup.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
@@ -46,7 +46,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
@@ -60,7 +60,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
@@ -68,6 +68,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/traffic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: repositories
           plugin_traffic: yes
