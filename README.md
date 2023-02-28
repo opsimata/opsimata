@@ -12,7 +12,7 @@
 
 - (｡･.･)ﾉﾞ🙋🏻‍♂️ — **You can reach me here:**
  
- [![linkedIn Icon](https://64.media.tumblr.com/609f307f0aa34a2c348aaf59e19f9a85/99805027b7bed5d1-d4/s75x75_c1/399d1ad8239b4bc580fe19dc65623c9c4ed6e97f.pnj)](https://www.linkedin.com/in/opsimata/)
+ [![linkedIn Button](https://64.media.tumblr.com/c3feba5466f8609667c0d7db17008dde/2489a70e27f5f07d-66/s250x400/f8ac56c85807ed362324f90c780e3bc7858ae5a9.pnj)](https://www.linkedin.com/in/opsimata/) [![Spotify Button](https://64.media.tumblr.com/a4d5ecb55a1b3a2ab00337d79379d03f/2489a70e27f5f07d-4f/s250x400/c581ee78eb3ef051cac4970fa8917824022ef400.pnj)](https://open.spotify.com/user/pedrowtf_?si=966d7debfa994e8d) [![Discord Button](https://64.media.tumblr.com/735e1d0e0d3e21882af58b46d8a42e5a/2489a70e27f5f07d-f9/s250x400/ff00d0216ad189811906964dd2b42ef6222e5e7b.pnj)](discordapp.com/users/319953771306418207)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=opsimata&theme=blueberry&dates=9072FC&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5D49A2&ring=5D49A2&fire=A38BFF&stroke=9072FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
   
