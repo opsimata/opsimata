@@ -6,11 +6,11 @@
 
 <h3 align="left">I'm a junior front-end dev, passionate for aesthetic designs and cool projects!</h3>
 
-- (ง •̀_•́)ง💻 — **Right now I'm working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable).**
-
-- (ง・∀・)ﾉ📚 — **I’m currently learning more about: React, React Native, Typescript and Sass.**
-
-- (｡･.･)ﾉﾞ🙋🏻‍♂️ — **You can reach me here:**
+> (ง •̀_•́)ง💻 — **Right now I'm working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable).**
+> 
+> (ง・∀・)ﾉ📚 — **I’m currently learning more about: React, React Native, Typescript and Sass.**
+> 
+> (｡･.･)ﾉﾞ🙋🏻‍♂️ — **You can reach me here:**
  
  [![linkedIn Button](https://64.media.tumblr.com/c3feba5466f8609667c0d7db17008dde/2489a70e27f5f07d-66/s250x400/f8ac56c85807ed362324f90c780e3bc7858ae5a9.pnj)](https://www.linkedin.com/in/opsimata/) [![Spotify Button](https://64.media.tumblr.com/a4d5ecb55a1b3a2ab00337d79379d03f/2489a70e27f5f07d-4f/s250x400/c581ee78eb3ef051cac4970fa8917824022ef400.pnj)](https://open.spotify.com/user/pedrowtf_?si=966d7debfa994e8d) [![Discord Button](https://64.media.tumblr.com/735e1d0e0d3e21882af58b46d8a42e5a/2489a70e27f5f07d-f9/s250x400/ff00d0216ad189811906964dd2b42ef6222e5e7b.pnj)](discordapp.com/users/319953771306418207)
 
