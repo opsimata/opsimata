@@ -22,5 +22,5 @@
 <h2></h2>
   ### Total de visitas no meu perfil
 <div text-align = "center">
-  <img alingn="center" src="https://profile-counter.glitch.me/EdoardoRocha/count.svg"/>
+  <img alingn="center" src="https://profile-counter.glitch.me/opsimata/count.svg"/>
 </div>
