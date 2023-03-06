@@ -21,6 +21,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=242938&color=ffffff&line=5d49a1&point=a28afe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2></h2>
 Total Visits
-<div text-align = "left">
-  <img alingn="center" src="https://profile-counter.glitch.me/opsimata/count.svg"/>
+<div text-align = "center">
+  <img align="left" src="https://profile-counter.glitch.me/opsimata/count.svg"/>
 </div>
