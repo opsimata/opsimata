@@ -22,6 +22,10 @@
 
 <h2></h2>
 
+![](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=00d8ff) ![](https://img.shields.io/badge/-SaSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)
+
+<h2></h2>
+
 <h3 align="left">Total Visits</h3>
 
 [![Total Profile Visits](https://profile-counter.glitch.me/opsimata/count.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
