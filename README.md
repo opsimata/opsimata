@@ -22,7 +22,7 @@
 
 <h2></h2>
 
-![](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=00d8ff) ![](https://img.shields.io/badge/-SaSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)
+![](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=00d8ff) ![](https://img.shields.io/badge/-SaSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF) ![](https://img.shields.io/badge/-HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF) ![](https://img.shields.io/badge/-css%203-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF) ![](https://img.shields.io/badge/-C%20sharp-64007a?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
 
 <h2></h2>
 
