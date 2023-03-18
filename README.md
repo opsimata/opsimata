@@ -4,7 +4,7 @@
 
 <h2 align="center">✨&nbsp;Hello!◝(⁰▿⁰)◜ ✨&nbsp;&nbsp;&nbsp;🪐I'm Pedro Schumacher🪐</h2>
 
-<h3 align="left">I'm a junior front-end dev, passionate for aesthetic designs and cool projects!</h3>
+<h3 align="left">I'm a junior front-end dev, passionate for aesthetic designs and cool projects</h3>
 
 > (ง •̀_•́)ง💻 — **Currently I'm working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable).**
 > 
