@@ -2,7 +2,7 @@
 
 <img align="right" alt="Profile card and avatar" width="315" src="https://64.media.tumblr.com/5d7d3483186bc21bc41f11d63d81e1c2/6680cb200c5c667c-0f/s400x600/d8d303df9d3cd9061d7b6a7c5f7feab46e1fec52.gif">
 
-<h2 align="center">✨&nbsp;Hello!!!◝(⁰▿⁰)◜ ✨&nbsp;&nbsp;&nbsp;🪐I'm Pedro Schumacher🪐</h2>
+<h2 align="center">✨&nbsp;Hello!!◝(⁰▿⁰)◜ ✨&nbsp;&nbsp;&nbsp;🪐I'm Pedro Schumacher🪐</h2>
 
 <h3 align="left">I'm a junior front-end dev, passionate for aesthetic designs and cool projects</h3>
 
