@@ -8,7 +8,7 @@
 
 > (ง •̀_•́)ง💻 — **Currently I'm working on a [reactive football points table](https://github.com/opsimata/FootballPointsTable).**
 > 
-> (ง・∀・)ﾉ📚 — **Right now I'm learning more about: React, Typescript and C#.**
+> (ง・∀・)ﾉ📚 — **Right now I'm learning more about: **
 > 
 > (｡･.･)ﾉﾞ🙋🏻‍♂️ — **You can reach me here:**
  
