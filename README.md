@@ -18,7 +18,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
-[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=opsimata&bg_color=242938&color=ffffff&line=5d49a1&point=a28afe&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app?username=opsimata&bg_color=242938&color=ffffff&line=5d49a1&point=a28afe&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
 
 <h2></h2>
 <h3 align="center">Languages, Tools & Tecnologies</h3>
