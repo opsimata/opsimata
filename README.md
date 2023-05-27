@@ -17,8 +17,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=opsimata&theme=blueberry&dates=9072FC&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5D49A2&ring=5D49A2&fire=A38BFF&stroke=9072FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app?username=opsimata&bg_color=242938&color=ffffff&line=5d49a1&point=a28afe&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=opsimata&bg_color=242938&color=ffffff&line=5d49a1&point=a28afe&area=true&hide_border=true)](https://github.com/opsimata?tab=repositories)
 
 <h2></h2>
 <h3 align="center">Languages, Tools & Tecnologies</h3>
