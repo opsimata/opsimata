@@ -10,7 +10,7 @@
 > 
 > (｡･.･)ﾉﾞ🙋🏻‍♂️ — **You can reach me here:**
 > 
-> [![linkedIn Button](https://64.media.tumblr.com/c3feba5466f8609667c0d7db17008dde/2489a70e27f5f07d-66/s250x400/f8ac56c85807ed362324f90c780e3bc7858ae5a9.pnj)](https://www.linkedin.com/in/opsimata/)
+> [![linkedIn Button](https://64.media.tumblr.com/c3feba5466f8609667c0d7db17008dde/2489a70e27f5f07d-66/s250x400/f8ac56c85807ed362324f90c780e3bc7858ae5a9.pnj)](linkedin.com/in/hphschumacher)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=opsimata&theme=blueberry&dates=9072FC&currStreakNum=FFFFFF&sideNums=FFFFFF&border=5D49A2&ring=5D49A2&fire=A38BFF&stroke=9072FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
