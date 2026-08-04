@@ -20,12 +20,6 @@
 </table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hphschumacher/">
-    <img src="https://img.shields.io/badge/LinkedIn-5D49A2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
   <img width="100%" src="./assets/divider.svg" alt="">
 </p>
 
