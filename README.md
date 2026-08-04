@@ -30,4 +30,4 @@
 
 <h3 align="left">Total Visits</h3>
 
-[![Total Profile Visits](https://profile-counter.glitch.me/opsimata/count.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile Views](https://komarev.com/ghpvc/?username=opsimata&color=blueviolet&style=for-the-badge)
