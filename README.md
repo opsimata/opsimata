@@ -1,6 +1,6 @@
 <img align="center" alt="Profile header" width="100%" src="https://64.media.tumblr.com/d18ffb37f3ac2f5170fefafbde9e4c15/3356a31ab718f648-59/s1280x1920/b6f939b565882ed5c4eea9bb1fe6b4ca17b99b5b.gif">
 
-<h2 align="center">✨&nbsp;Hallo!◝(⁰▿⁰)◜ ✨&nbsp;&nbsp;&nbsp;🪐I'm Helgi Schumacher🪐</h2>
+<h1 align="center">Hi, I'm Helgi Schumacher 👋</h1>
 
 <h3 align="center">Front-end Developer • React • TypeScript • UI/UX Enthusiast</h3>
 
@@ -15,6 +15,10 @@
   <a href="https://www.linkedin.com/in/hphschumacher/">
     <img src="https://img.shields.io/badge/LinkedIn-5D49A2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/divider.svg" alt="">
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -32,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img width="78%" src="./assets/divider.svg" alt="">
+  <img width="100%" src="./assets/divider.svg" alt="">
 </p>
 
 <h3 align="center">Languages, Tools & Technologies</h3>
@@ -67,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img width="78%" src="./assets/divider.svg" alt="">
+  <img width="100%" src="./assets/divider.svg" alt="">
 </p>
 
 <p align="center">
