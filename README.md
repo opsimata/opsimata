@@ -31,7 +31,9 @@
   </a>
 </p>
 
-<h2></h2>
+<p align="center">
+  <img width="78%" src="./assets/divider.svg" alt="">
+</p>
 
 <h3 align="center">Languages, Tools & Technologies</h3>
 
@@ -64,7 +66,9 @@
   <img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=FFFFFF" alt="JSON">
 </p>
 
-<h2></h2>
+<p align="center">
+  <img width="78%" src="./assets/divider.svg" alt="">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=opsimata&color=blueviolet&style=for-the-badge" alt="Profile Views">
