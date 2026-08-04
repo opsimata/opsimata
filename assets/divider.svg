@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28">
+  <line
+    x1="0"
+    y1="14"
+    x2="465"
+    y2="14"
+    stroke="#5D49A2"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <text
+    x="500"
+    y="20"
+    text-anchor="middle"
+    font-size="22"
+  >🪐</text>
+  <line
+    x1="535"
+    y1="14"
+    x2="1000"
+    y2="14"
+    stroke="#5D49A2"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+</svg>
