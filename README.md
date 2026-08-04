@@ -4,20 +4,13 @@
 
 <h3 align="center">Front-end Developer • React • TypeScript • UI/UX Enthusiast</h3>
 
-<table align="center">
-  <tr>
-    <td align="left">🌱 <strong>Currently learning:</strong> React</td>
-  </tr>
-  <tr>
-    <td align="left">💼 <strong>Looking for:</strong> Front-end opportunities</td>
-  </tr>
-  <tr>
-    <td align="left">
-      📫 <strong>Contact:</strong>
-      <a href="https://www.linkedin.com/in/hphschumacher/">LinkedIn</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+🌱 <strong>Currently learning:</strong> React  
+💼 <strong>Looking for:</strong> Front-end opportunities  
+📫 <strong>Contact:</strong> <a href="https://www.linkedin.com/in/hphschumacher/">LinkedIn</a>
+
+</div>
 
 <p align="center">
   <img width="100%" src="./assets/divider.svg" alt="">
