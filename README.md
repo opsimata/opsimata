@@ -20,7 +20,11 @@
 
 <p align="center">
   <a href="https://github.com/opsimata?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=opsimata&bg_color=242938&color=ffffff&line=5d49a1&point=a28afe&area=true&hide_border=true" alt="GitHub activity graph">
+    <img
+      src="https://raw.githubusercontent.com/opsimata/opsimata/output/activity-graph.svg"
+      alt="GitHub activity graph"
+      width="100%"
+    >
   </a>
 </p>
 
