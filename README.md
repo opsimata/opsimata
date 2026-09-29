@@ -6,8 +6,8 @@
 
 <div align="center">
 
-🌱 <strong>Currently learning:</strong> React  
-💼 <strong>Looking for:</strong> Front-end opportunities  
+🌱 <strong>Currently learning:</strong> React Native + Expo
+💼 <strong>Looking for:</strong> Front-End Treinee/Junior opportunities  
 📫 <strong>Contact:</strong> <a href="https://www.linkedin.com/in/hphschumacher/">LinkedIn</a>
 
 </div>
