@@ -1,8 +1,11 @@
-<img align="center" alt="Profile header" width="100%" src="https://64.media.tumblr.com/d18ffb37f3ac2f5170fefafbde9e4c15/3356a31ab718f648-59/s1280x1920/b6f939b565882ed5c4eea9bb1fe6b4ca17b99b5b.gif">
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:3B2A6F,70:5D49A1,100:A28AFE&height=260&section=header&text=Helgi%20Schumacher&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Front-end%20Developer%20%7C%20React%20%7C%20C%23%20%7C%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=60&descAlign=50"
+/>
 
-<h1 align="center">Hi, I'm Helgi Schumacher 👋</h1>
-
-<h3 align="center">Front-End Developer • React • C# • UI/UX Curious</h3>
+<p align="center">
+  <img width="100%" src="./assets/divider.svg" alt="">
+</p>
 
 <div align="center">
 
