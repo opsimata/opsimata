@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Helgi Schumacher 👋</h1>
 
-<h3 align="center">Front-end Developer • React • TypeScript • UI/UX Enthusiast</h3>
+<h3 align="center">Front-End Developer • React • C# • UI/UX Curious</h3>
 
 <div align="center">
 
