@@ -2,10 +2,14 @@
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:3B2A6F,70:5D49A1,100:A28AFE&height=260&section=header&text=Helgi%20Schumacher&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Front-end%20Developer%20%7C%20React%20%7C%20C%23%20%7C%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=60&descAlign=50"
 />
-
-<p align="center">
-  <img width="100%" src="./assets/divider.svg" alt="">
-</p>
+<div align="center">
+  <a href="https://github.com/opsimata">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A28AFE&center=true&vCenter=true&width=820&height=60&lines=Front-end+Developer+%7C+Brazil;React+%7C+C%23+%7C+JavaScript+%7C+Sass;From+the+first+component+to+the+final+interface;Building+clean%2C+responsive+and+meaningful+experiences"
+      alt="Front-end Developer — React, C#, JavaScript and Sass"
+    />
+  </a>
+</div>
 
 <div align="center">
 
@@ -15,9 +19,7 @@
 
 </div>
 
-<p align="center">
-  <img width="100%" src="./assets/divider.svg" alt="">
-</p>
+<br><br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
