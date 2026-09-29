@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:3B2A6F,70:5D49A1,100:A28AFE&height=260&section=header&text=Helgi%20Schumacher&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Front-end%20Developer%20%7C%20React%20%7C%20C%23%20%7C%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=60&descAlign=50"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:3B2A6F,70:5D49A1,100:A28AFE&height=240&section=header&text=Helgi%20Schumacher&fontSize=47&fontColor=FFFFFF&fontAlignY=37&fontFamily=Roboto&animation=fadeIn&desc=Front-end%20Developer%20%7C%20React%20%7C%20C%23%20%7C%20UI%2FUX%20Enthusiast&descSize=17&descAlignY=58&descAlign=50"
 />
 <div align="center">
   <a href="https://github.com/opsimata">
