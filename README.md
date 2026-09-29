@@ -5,11 +5,13 @@
 <div align="center">
   <a href="https://github.com/opsimata">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A28AFE&center=true&vCenter=true&width=820&height=60&lines=Front-end+Developer+%7C+Brazil;React+%7C+C%23+%7C+JavaScript+%7C+Sass;From+the+first+component+to+the+final+interface;Building+clean%2C+responsive+and+meaningful+experiences"
-      alt="Front-end Developer — React, C#, JavaScript and Sass"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A28AFE&center=true&vCenter=true&width=820&height=60&lines=Front-end+Developer+%7C+Rio+Grande+Do+Sul+%7C+Brazil;React+%26+React+Native+%7C+C%23+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+Bootstrap;From+the+first+component+to+the+final+interface;Building+clean%2C+responsive+and+meaningful+experiences"
+      alt="Front-end Developer — React & React Native, C#, JavaScript, HTML, CSS and Bootstrap"
     />
   </a>
 </div>
+
+<br>
 
 <p align="center">
   <img
