@@ -11,13 +11,22 @@
   </a>
 </div>
 
-<div align="center">
+<p align="center">
+  <img
+    src="./assets/profile-info.svg"
+    width="100%"
+    alt="Helgi Schumacher profile information"
+  />
+</p>
 
-🌱 <strong>Currently learning:</strong> React Native  
-💼 <strong>Looking for:</strong> Front-End Treinee/Junior opportunities   
-📫 <strong>Contact:</strong> <a href="https://www.linkedin.com/in/hphschumacher/">LinkedIn</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hphschumacher/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Helgi%20Schumacher-5D49A1?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
 <br><br>
 
