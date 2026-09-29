@@ -15,7 +15,7 @@
 
 <p align="center">
   <img
-    src="./assets/profile-info.svg"
+    src="https://raw.githubusercontent.com/opsimata/opsimata/main/assets/profile-info.svg?v=initial"
     width="100%"
     alt="Helgi Schumacher profile information"
   />
