@@ -1,1 +1,127 @@
-assets/profile-info.svg
+<svg width="900" height="230" viewBox="0 0 900 230"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="borderGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3B2A6F"/>
+      <stop offset="50%" stop-color="#5D49A1"/>
+      <stop offset="100%" stop-color="#A28AFE"/>
+    </linearGradient>
+
+    <linearGradient id="rowGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#242938"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main card -->
+  <rect
+    x="2"
+    y="2"
+    width="896"
+    height="226"
+    rx="22"
+    fill="#0D1117"
+    stroke="url(#borderGradient)"
+    stroke-width="3"
+  />
+
+  <!-- Row 1 -->
+  <rect
+    x="30"
+    y="25"
+    width="840"
+    height="50"
+    rx="12"
+    fill="url(#rowGradient)"
+  />
+
+  <circle cx="58" cy="50" r="6" fill="#A28AFE"/>
+
+  <text
+    x="85"
+    y="56"
+    fill="#A28AFE"
+    font-size="18"
+    font-weight="700"
+    font-family="JetBrains Mono, Fira Code, monospace"
+  >
+    Currently learning:
+  </text>
+
+  <text
+    x="290"
+    y="56"
+    fill="#FFFFFF"
+    font-size="18"
+    font-family="JetBrains Mono, Fira Code, monospace"
+  >
+    React Native
+  </text>
+
+  <!-- Row 2 -->
+  <rect
+    x="30"
+    y="90"
+    width="840"
+    height="50"
+    rx="12"
+    fill="url(#rowGradient)"
+  />
+
+  <circle cx="58" cy="115" r="6" fill="#5D49A1"/>
+
+  <text
+    x="85"
+    y="121"
+    fill="#A28AFE"
+    font-size="18"
+    font-weight="700"
+    font-family="JetBrains Mono, Fira Code, monospace"
+  >
+    Looking for:
+  </text>
+
+  <text
+    x="240"
+    y="121"
+    fill="#FFFFFF"
+    font-size="18"
+    font-family="JetBrains Mono, Fira Code, monospace"
+  >
+    Front-End Trainee / Junior opportunities
+  </text>
+
+  <!-- Row 3 -->
+  <rect
+    x="30"
+    y="155"
+    width="840"
+    height="50"
+    rx="12"
+    fill="url(#rowGradient)"
+  />
+
+  <circle cx="58" cy="180" r="6" fill="#3B2A6F"/>
+
+  <text
+    x="85"
+    y="186"
+    fill="#A28AFE"
+    font-size="18"
+    font-weight="700"
+    font-family="JetBrains Mono, Fira Code, monospace"
+  >
+    Contact:
+  </text>
+
+  <text
+    x="195"
+    y="186"
+    fill="#FFFFFF"
+    font-size="18"
+    font-family="JetBrains Mono, Fira Code, monospace"
+  >
+    LinkedIn / Helgi Schumacher
+  </text>
+</svg>
