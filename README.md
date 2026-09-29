@@ -91,4 +91,6 @@
   <img src="https://komarev.com/ghpvc/?username=opsimata&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
 
-<p align="center">Thanks for visiting ⭐</p>
+<p align="center">⭐ Thanks for visiting ⭐</p>
+
+<p align="center">✝️ 1 Corinthians 13:4-7 ❤️</p>
