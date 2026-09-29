@@ -1,0 +1,39 @@
+name: Refresh SVG Cache
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "assets/profile-info.svg"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update SVG cache version
+        run: |
+          SHORT_SHA=$(echo "$GITHUB_SHA" | cut -c1-8)
+
+          sed -i -E \
+            "s|(profile-info\.svg\?v=)[^\"]+|\1$SHORT_SHA|g" \
+            README.md
+
+      - name: Commit updated cache version
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || \
+          git commit -m "chore: refresh profile info SVG cache"
+
+          git push
