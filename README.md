@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hphschumacher/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Helgi%20Schumacher-5D49A1?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Helgi%20Schumacher-3b2a6f?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
