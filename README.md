@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=opsimata&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://api.visitorbadge.io/api/combined?path=opsimata&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
 
 <p align="center">⭐ Thanks for visiting ⭐</p>
